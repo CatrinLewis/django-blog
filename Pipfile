@@ -13,6 +13,7 @@ psycopg2 = "*"
 pytz = "*"
 sqlparse = "*"
 whitenoise = "*"
+pillow = "*"
 
 [dev-packages]
 
